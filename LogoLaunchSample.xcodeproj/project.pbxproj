@@ -12,6 +12,7 @@
 		C18C459920B9CB88002277EE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C18C459720B9CB88002277EE /* Main.storyboard */; };
 		C18C459B20B9CB8C002277EE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C18C459A20B9CB8C002277EE /* Assets.xcassets */; };
 		C18C459E20B9CB8C002277EE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C18C459C20B9CB8C002277EE /* LaunchScreen.storyboard */; };
+		C18C45A620B9CBAC002277EE /* Twitter_Logo_WhiteOnBlue.png in Resources */ = {isa = PBXBuildFile; fileRef = C18C45A520B9CBAC002277EE /* Twitter_Logo_WhiteOnBlue.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C18C459A20B9CB8C002277EE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C18C459D20B9CB8C002277EE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C18C459F20B9CB8C002277EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C18C45A520B9CBAC002277EE /* Twitter_Logo_WhiteOnBlue.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Twitter_Logo_WhiteOnBlue.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 			isa = PBXGroup;
 			children = (
 				C18C459320B9CB88002277EE /* AppDelegate.swift */,
+				C18C45A520B9CBAC002277EE /* Twitter_Logo_WhiteOnBlue.png */,
 				C18C459520B9CB88002277EE /* ViewController.swift */,
 				C18C459720B9CB88002277EE /* Main.storyboard */,
 				C18C459A20B9CB8C002277EE /* Assets.xcassets */,
@@ -125,6 +128,7 @@
 				C18C459E20B9CB8C002277EE /* LaunchScreen.storyboard in Resources */,
 				C18C459B20B9CB8C002277EE /* Assets.xcassets in Resources */,
 				C18C459920B9CB88002277EE /* Main.storyboard in Resources */,
+				C18C45A620B9CBAC002277EE /* Twitter_Logo_WhiteOnBlue.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
